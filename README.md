@@ -4,7 +4,7 @@ A CRUD software with react using useState, props, useEffect with principals and 
 
 
 ## Demo
-
+https://criptocomparer.netlify.app/
 
 
 ## 🛠 Skills
